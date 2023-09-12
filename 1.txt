@@ -1,0 +1,1200 @@
+R Nazir, AA Laghari, K Kumar, S David… - Archives of Computational …, 2021 - Springer
+… We review different protocols, security issues, and their solutions, proposed through research
+to overcome the security … we have raised different wireless network security issues. These …
+Save
+Cite Cited by 35 Related articles All 2 versions
+VB Savant, RD Kasar - Research Journal of Engineering and …, 2021 - indianjournals.com
+… Also network security issues are now becoming important as society is moving towards digital
+… overview on Network Security and various techniques through which Network Security can …
+Save
+Cite Cited by 82 Related articles All 10 versions
+I Ghafir, V Prenosil, J Svoboda… - 2016 IEEE 4th …, 2016 - ieeexplore.ieee.org
+… This paper provides the readers with a critical review of the … many network monitoring
+approaches to ensure network security [2]. This paper provides the readers with a critical review of …
+Save
+Cite Cited by 98 Related articles All 9 versions
+H Lin, Z Yan, Y Chen, L Zhang - IEEE Access, 2018 - ieeexplore.ieee.org
+… of network security-related data collection. In Section 4, we thoroughly review existing
+network data collection technologies and discuss if they are qualified for collecting the security-…
+Save
+Cite Cited by 92 Related articles All 6 versions
+J Zhao, R Masood, S Seneviratne - … Communications Surveys & …, 2021 - ieeexplore.ieee.org
+… Our survey is structured as follows. In Section II, we explain the broader network security …
+In Section III, we survey the research carried out in the domain of phishing detection using …
+Save
+Cite Cited by 30 Related articles All 3 versions
+K Neupane, R Haddad, L Chen - SoutheastCon 2018, 2018 - ieeexplore.ieee.org
+… network security goals, their recent emerging security threats, and their potential solutions to
+protect the network … In this paper, the network security goals and emerging network threats …
+Save
+Cite Cited by 70 Related articles
+JA Maxa, MSB Mahmoud, N Larrieu - Ad Hoc & Sensor Wireless …, 2017 - enac.hal.science
+… This paper provides a survey of both UAANET routing protocols and network security. We …
+is a trade-off to establish between routing efficiency and security overheads. Some UAANET …
+Save
+Cite Cited by 72 Related articles All 4 versions
+C Sridevi - Global Journal of Computer Science and Technology, 2018 - core.ac.uk
+… security is high whereas many algorithms are emerging according to the needs of various
+categories of people. Still we can see the security … Still we can see the security threats. In this …
+Save
+Cite Cited by 13 Related articles
+S Sengupta, A Chowdhary, A Sabur… - … Surveys & Tutorials, 2020 - ieeexplore.ieee.org
+… to the static nature of network services and configurations. To … In this survey, we analyze the
+recent advancements made in … Defined Networking and Network Function Virtualization act …
+Save
+Cite Cited by 173 Related articles All 10 versions
+Z Lu, G Qu, Z Liu - IEEE Transactions on Intelligent …, 2018 - ieeexplore.ieee.org
+… security, privacy, and trust management challenging issues in VANETs’ design. This survey
+… , followed by a brief treatment of main security services, which have been well studied in …
+Save
+Cite Cited by 506 Related articles All 4 versions
+X Yan, H Wang - Artificial Intelligence and Security: 6th International …, 2020 - Springer
+… being taken seriously while the situation of network security becoming more and more severe.
+… This paper performs a typical survey of the composition and key technologies of zero trust, …
+Save
+Cite Cited by 25 Related articles
+L He, Z Yan, M Atiquzzaman - IEEE Access, 2018 - ieeexplore.ieee.org
+… -A network. Different from previous work, in this paper, we review the security data collection
+… order to provide the basis of security measurement in LTE/LTE-A network. We first present a …
+Save
+Cite Cited by 74 Related articles All 2 versions
+R Ferdiana - … 4th International Conference on Informatics and …, 2020 - ieeexplore.ieee.org
+… activities in terms of network security and making better use of resource… This literature review
+aims to analyze and identify the … the literature review that will be answered in this review are …
+Save
+Cite Cited by 139 Related articles All 2 versions
+Y Gao, Z Wang - Mobile Information Systems, 2021 - downloads.hindawi.com
+… , security, or 5G. is paper provides a review of research papers on solving network security
+… e advantages of P4-based programmable switching in solving network security are analyzed…
+Save
+Cite Cited by 15 Related articles All 5 versions
+H Guo, J Li, J Liu, N Tian, N Kato - … Communications Surveys & …, 2021 - ieeexplore.ieee.org
+… , little survey can be found on SAGSIN security. … survey of SAGSIN security, and as far
+as we know, this is the first detailed survey of existing researches related to SAGSIN security. …
+Save
+Cite Cited by 140 Related articles All 3 versions
+S Kim, KJ Park, C Lu - IEEE Communications Surveys & …, 2022 - ieeexplore.ieee.org
+… Furthermore, we review resilient CPS designs in the context of control theory, network
+management, and data-driven technologies. We conclude the survey by identifying future …
+Save
+Cite Cited by 15 Related articles All 5 versions
+龚俭， 臧小东， 苏琪， 胡晓艳， 徐杰 - Journal of Software, 2016 - jos.org.cn
+… response to the security threats. It is a means of … for network security, with which network
+security management system can have a global view of security states of the managed network, …
+Save
+Cite Cited by 57 Related articles All 3 versions
+O Ibitoye, R Abou-Khamis, A Matrawy… - arXiv preprint arXiv …, 2019 - arxiv.org
+… to review these publications into a survey work. In the field of network security, We identified
+nine survey … machine learning from the context of network security. None of these previous …
+Save
+Cite Cited by 68 Related articles All 2 versions
+S Pamarthi, R Narmadha - International Journal of Intelligent …, 2022 - emerald.com
+… The intrusion detection and prevention system is employed by monitoring the network activities…
+review of intrusion detection and prevention systems for Wireless Mobile Ad-hoc Network. …
+Save
+Cite Cited by 18 Related articles All 3 versions
+M Ghaznavi, E Jalalpour… - … Surveys & Tutorials, 2021 - ieeexplore.ieee.org
+… In this paper, we provide the first survey on CDN security. We categorize CDN security
+challenges … This paper aims to highlight the state of CDN security and identify important research …
+Save
+Cite Cited by 15 Related articles All 3 versions
+A Ramos, M Lazar, R Holanda Filho… - … Surveys & Tutorials, 2017 - ieeexplore.ieee.org
+… paper presents a deep survey of the state-of-the-art of these proposals. First, to distinguish
+the security metrics described in this survey from other types of security metrics, an overview …
+Save
+Cite Cited by 94 Related articles All 2 versions
+N Mandal, S Jadhav - 2016 IEEE International Conference on …, 2016 - ieeexplore.ieee.org
+… Network security consists of the policies adopted to prevent and monitor denial of a computer
+network, … The aim of network security is to provide authorization in order to access data in a …
+Save
+Cite Cited by 22 Related articles
+NC Luong, DT Hoang, P Wang… - … Surveys & Tutorials, 2017 - ieeexplore.ieee.org
+… While the security issues have not been completely solved by traditional or system-based …
+In this paper, we review economic and pricing approaches proposed to address major security …
+Save
+Cite Cited by 36 Related articles All 6 versions
+TN Nguyen - arXiv preprint arXiv:1804.03539, 2018 - arxiv.org
+… Through examination of the latest ML based SDN security applications and a good look at
+… survey, making a case for more secure development processes of ML-based SDN security …
+Save
+Cite Cited by 27 Related articles All 3 versions
+RD Sari, APU Supiyandi, MM Siahaan… - Int. J. Sci. Res. Sci …, 2017 - academia.edu
+Technological developments in computer networks increasingly demand security on
+systems built. Security also requires flexibility, efficiency, and effectiveness. The exchange of …
+Save
+Cite Cited by 68 Related articles All 6 versions
+M Humayun, B Hamid, NZ Jhanjhi… - Journal of Physics …, 2021 - iopscience.iop.org
+… of data, still security is an important concern … survey on 5G security by addressing 5G
+opportunities, common threats targeting 5G network along with their mitigation strategies, security …
+Save
+Cite Cited by 10 Related articles All 3 versions
+Z Lu, C Wang, S Zhao - arXiv preprint arXiv:2007.14497, 2020 - arxiv.org
+… In this section, we review recent techniques that leverage the … , network-level deception,
+host or device level deception, and cryptographybased deception. In the following, we review …
+Save
+Cite Cited by 14 Related articles All 2 versions
+J Arevalo Herrera, JE Camargo - … Cryptography and Network Security …, 2019 - Springer
+… Combined with new technologies such as Software Defined Networking (SDN) and Network
+… this survey, we present studies that employ ML techniques in SDN environments for security …
+Save
+Cite Cited by 27 Related articles All 3 versions
+R Dastres, M Soori - International Journal of Information Sciences and …, 2021 - hal.science
+… network security is to have our network fully prepared for threats. Here are 4 tips for the
+network security implementation process: 1- Security: … 2 - Review: Track network activities and …
+Save
+Cite Cited by 26 Related articles All 7 versions
+SK Jajula, K Tripathi, SB Bajaj - … in Data Mining and Information Security …, 2022 - Springer
+… Wanna cry ransomware attack: War driving is perfect alternative when a wireless network …
+firewall, network security and VPN can be implemented while designing the network as per …
+Save
+Cite Cited by 10 Related articles
+X Wu, Y Du, T Fan, J Guo, J Ren, R Wu… - Complex & Intelligent …, 2023 - Springer
+… review of threats and corresponding solutions in SIN from the perspective of network security
+… the analysis based on network function or architecture, this paper relates network layers to …
+Save
+Cite Cited by 3 Related articles All 4 versions
+K Grahn, M Westerlund, G Pulkkis - Information fusion for cyber-security …, 2017 - Springer
+… security analytics taxonomy includes descriptive analytics for identification of network security
+threats… Our proposal applied to network security analytics results in the following taxonomy: …
+Save
+Cite Cited by 22 Related articles
+MRK Naik, P Samundiswary - 2016 International Conference …, 2016 - ieeexplore.ieee.org
+… Network security is an area that involves many technical issues for research. Network security
+… which an unauthorized person access data and the data security [5] of sending data to the …
+Save
+Cite Cited by 34 Related articles All 2 versions
+S Manimurgan, T Anitha, G Divya… - … on Computing and …, 2022 - ieeexplore.ieee.org
+… in the literature review. As a result, the application of network security utilizing blockchain …
+based on several network solutions that employ blockchain for network security. Finally, the …
+Save
+Cite Cited by 8 Related articles
+S Noel - From Database to Cyber Security: Essays Dedicated to …, 2018 - Springer
+… conditions to a graph of security states with attacker exploits … scale quadratically with the
+number of network hosts [8]. There … -based approaches for network security has reached a fair …
+Save
+Cite Cited by 24 Related articles All 2 versions
+J Yao, X Fan, N Cao - Cyberspace Safety and Security: 11th International …, 2019 - Springer
+… posture, topology posture and transmission posture according to different application
+fields, the current research on network posture is centered on network security posture. …
+Save
+Cite Cited by 12 Related articles All 2 versions
+M Jangjou, MK Sohrabi - Archives of Computational Methods in …, 2022 - Springer
+… security challenges in cloud computing from the network layers’ … security risks. Emerging
+solutions and preventive methods that may potentially reduce vulnerabilities in various network …
+Save
+Cite Cited by 35 Related articles All 2 versions
+TA Assegie, PS Nair - … Computing Electronics and Control), 2019 - telkomnika.uad.ac.id
+… of required network security policies, packet data scan detection mechanisms, altering
+network policies into flow entries, authentication and authorization for addressing the security …
+Save
+Cite Cited by 17 Related articles All 9 versions
+C Kumar, TS Bharati, S Prakash - Neural Processing Letters, 2021 - Springer
+… We have categories the literature review based on standard security … of security and privacy
+varies from one online network to others. In [29], the author claimed that the network which …
+Save
+Cite Cited by 15 Related articles All 2 versions
+MR Ghori, TC Wan, M Anbar… - 2019 IEEE Student …, 2019 - ieeexplore.ieee.org
+… networks, mesh network security is also of a great … review on several works associated
+to the security in WMN and BLE mesh networks and the research related to the BLE security …
+Save
+Cite Cited by 12 Related articles
+M Faris, MN Mahmud, MFM Salleh… - International Journal of …, 2023 - journals.sagepub.com
+… This review focuses on security issues by reviewing and addressing diverse types of …
+security issues in the previous 3 years. As a consequence, this paper gives a taxonomy of security …
+Save
+Cite Cited by 4 Related articles
+B Mostefa, G Abdelkader - 2017 4th International Conference …, 2017 - ieeexplore.ieee.org
+… security challenges of Wireless Sensors Network. 2) Security Challenges in Wireless sensor
+network … to improve the security of wireless sensor network into IoT technologies. We have …
+Save
+Cite Cited by 22 Related articles
+A Ly, YD Yao - IEEE Open Journal of the Communications …, 2021 - ieeexplore.ieee.org
+… This article provides a comprehensive review of 5G communications research using deep
+learning. Specifically, we address the issues of low-density parity-check (LDPC) coding, …
+Save
+Cite Cited by 34 Related articles All 2 versions
+M Imran, F Bashir, AR Jafri, M Rashid… - Computers & Electrical …, 2021 - Elsevier
+… Another study pertaining to the usage of neural network in the network security domain, with
+the neural network architectures and the available datasets for the complete deployment of …
+Save
+Cite Cited by 8 Related articles All 3 versions
+N Unnisa A, M Yerva, K MZ - International Research Journal on …, 2022 - rspsciencehub.com
+… and hence the network to be considered for security. Threats on the network can be classified
+in … This paper consists of a survey made on IDS and different algorithms used to implement …
+Save
+Cite Cited by 12 Related articles All 4 versions
+X Liang, Y Kim - 2021 IEEE 11th annual computing and …, 2021 - ieeexplore.ieee.org
+… this survey, different attacks on different layers of IoT devices were discussed and covered.
+We covered security attacks on the physical layer, the network … This survey aims to provide a …
+Save
+Cite Cited by 44 Related articles All 2 versions
+W Yang, C Fung - 2016 IEEE NetSoft Conference and …, 2016 - ieeexplore.ieee.org
+… We also present existing NFV security solutions and products. We also survey NFV security
+… The predefined virtualized network security functions can be used in access networks [36], …
+Save
+Cite Cited by 116 Related articles All 7 versions
+U Göksel, M ALKAN, İA Doğru… - 2019 3rd International …, 2019 - ieeexplore.ieee.org
+… Perimeter network security solutions are generally the most complicated, effort consuming
+and rapidly evolving part of the entire network. In this study, perimeter network security …
+Save
+Cite Cited by 8 Related articles All 3 versions
+X Chen, C Wu, X Liu, Q Huang, D Zhang… - … Surveys & Tutorials, 2023 - ieeexplore.ieee.org
+… brings new opportunities of empowering network security techniques with the characteristics
+… this survey, we focus on this promising trend in network security. More precisely, this survey …
+Save
+Cite Cited by 1 Related articles
+M Khurana, T Choudhury… - … Computing and Informatics …, 2019 - ieeexplore.ieee.org
+… the issues of network security in the … IoT network ecosystem for applications. This voluminous
+connectivity has led to multiple challenges and issues with reference to traditional network …
+Save
+Cite Cited by 7 Related articles
+R Khan, M Hasan - International Journal of Advanced …, 2017 - pdfs.semanticscholar.org
+… review of papers with keywords network security, network attacks and threats and network
+security … The aim of this paper is to critically review the studies on networking security, …
+Save
+Cite Cited by 19 Related articles All 3 versions
+H Tao, J Zhou, S Liu - … IEEE Conference on Energy Internet and …, 2017 - ieeexplore.ieee.org
+… the network security situation awareness C Event based on the power monitoring system
+network security … analysis, network security situation awareness and early warning mechanism. …
+Save
+Cite Cited by 14 Related articles
+J Zhang, H Feng, B Liu, D Zhao - Sensors, 2023 - mdpi.com
+… Our paper An extensive survey on the NSSA integration. First, we extensively discuss the
+concept and the history of NSSA in network security. Second, the critical research works of …
+Save
+Cite Cited by 1 Related articles All 7 versions
+MS Kim - Mobile and Wireless Technologies 2017: ICMWT 2017 …, 2018 - Springer
+… Security has emerged as an essential factor to prevent malicious threats and privacy
+violation from vehicles, drivers, and traffic network. This study tries to find the main security …
+Save
+Cite Cited by 12 Related articles
+H Shah, V Kakkad, R Patel, N Doshi - Procedia Computer Science, 2019 - Elsevier
+… fields of computer science like security, machine learning, … a review on game theoretical
+approaches to various fields in computer science such as privacy preservation, network security …
+Save
+Cite Cited by 14 Related articles All 2 versions
+M Pawar, J Agarwal - Indian J. Comput. Sci. Eng, 2017 - ijcse.com
+… Abstract - This review work present a gist of security issues related to the WSN network and
+… [2] In this short review, the security problems and physical assaults were analyzed. The …
+Save
+Cite Cited by 31 Related articles
+AK Sharma, SK Mittal - 2019 Third International Conference on …, 2019 - ieeexplore.ieee.org
+… and person who belongs to security domain (IT security, Network Security) is aware about
+Hash functions which are properly providing necessary security services from long ago wrt …
+Save
+Cite Cited by 11 Related articles All 3 versions
+M Kompara, M Hölbl - Ad Hoc Networks, 2018 - Elsevier
+… In this Chapter, we will review the security of proposed schemes for securing BSN
+communications and the different ways in which authors choose to show their schemes’ security …
+Save
+Cite Cited by 74 Related articles All 3 versions
+J Grover, S Sharma - 2016 5th International Conference on …, 2016 - ieeexplore.ieee.org
+… security issues and security threats in WSNs. Also, gives brief description of some of the
+protocols used to achieve security in the network. … the network security. LEAP is satisfies several …
+Save
+Cite Cited by 70 Related articles All 5 versions
+A Volkova, M Niedermeier… - … Surveys & Tutorials, 2018 - ieeexplore.ieee.org
+… In this paper, a comprehensive survey on the security of the most important control … network
+security means to mitigate the impact from malicious activities. Reliable network security …
+Save
+Cite Cited by 77 Related articles All 2 versions
+M Mahmood, B Al-Khateeb… - Jour of Adv Research in …, 2018 - researchgate.net
+… The connection between cryptography and ANN provides a great help for the security
+concerns. This paper presents a review for the contribution of ANN in the field of network security …
+Save
+Cite Cited by 6 Related articles All 3 versions
+K Kumar, SK Arora - International Journal of Grid and Distributed …, 2016 - researchgate.net
+… network and gives the concept of intelligent transportation system. In this paper we presented
+the review of security … We analyzed some of the security problems and proposed solutions …
+Save
+Cite Cited by 10 Related articles All 3 versions
+W Xi, W Wu, CY Yang - International Journal of Network Security, 2022 - ijns.jalaxy.com.tw
+… Network security situation awareness is one of the most concerning research in network
+security. … With the accurate prediction of network security status in advance, it can fundamentally …
+Save
+Cite Cited by 1 Related articles All 2 versions
+H Chen, Y Fu, Z Yan - Network and System Security: 11th International …, 2017 - Springer
+… , validity and their support on security related data analysis. Through survey, we indicate
+open issues and propose future research trends in the field of network security measurement. …
+Save
+Cite Cited by 8 Related articles All 5 versions
+S Tanwar, J Vora, S Tyagi, N Kumar… - Security and …, 2018 - Wiley Online Library
+… paper, a detailed survey of all existing proposals about types of attacks and possible security
+… Although there exist many reviews for security in VANET, but our review in this paper differs …
+Save
+Cite Cited by 94 Related articles All 3 versions
+M Abdelhafidh, N Charef, AB Mnaouer… - … Conference of Smart …, 2022 - ieeexplore.ieee.org
+… the network’s principal functionalities. The present study aims to review the communication
+architecture for FANET systems. In addition, the role of SDN to ensure FANET security is …
+Save
+Cite Cited by 2 Related articles
+S Shende, S Thorat - 2020 2nd International Conference on …, 2020 - ieeexplore.ieee.org
+… or software helps to detect and monitor the network, system or device. This helps … network
+security. The proposed method implements an effective and enhanced ID for network security …
+Save
+Cite Cited by 8 Related articles
+E Baraneetharan - Journal of Ubiquitous Computing and …, 2022 - irojournals.com
+… produce a response signal to their own network connections as a training signal for … -based
+security tools while it is in real-time operation. The motive of the work is to review and present …
+Save
+Cite Cited by 3 Related articles
+SUM Kamal, RJA Ali, HK Alani… - ARPN Journal of …, 2016 - portal.arid.my
+… It presents a survey of viruses, worms and bots. Latest network security technologies are …
+demand for robust network security is analysed; major portion of network attacks are launched …
+Save
+Cite Cited by 14 Related articles All 2 versions
+S Pareek, A Gautam, R Dey - PASJ International Journal of …, 2017 - researchgate.net
+… Network security is one of the tough job because none of the routing protocol can’t fully …
+For any network there are few malicious node that can be make problem total network path also …
+Save
+Cite Cited by 7 Related articles
+I Tomić, JA McCann - IEEE Internet of Things Journal, 2017 - ieeexplore.ieee.org
+… This work culminates in a deeper analysis of network layer attacks … a network using the
+Cooja network simulator. Finally, we discuss new research opportunities in network layer security …
+Save
+Cite Cited by 282 Related articles All 6 versions
+[PDF] researchgate.net
+[CITATION] A Review of Security Challenges in Ad-Hoc Network
+RR Chandan, PK Mishra - International Journal of Applied Engineering Research, 2018
+Save
+Cite Cited by 10 Related articles All 4 versions
+J Alshehri, A Alhamed - 2022 4th International Conference on …, 2022 - ieeexplore.ieee.org
+… Cryptography is one of the consent of network security basic concepts. It mainly depends on
+… in network security and review some methodologies for encryption in network security and …
+Save
+Cite Cited by 2 Related articles
+A Ahad, Z Ali, A Mateen, M Tahir, A Hannan, NM Garcia… - Array, 2023 - Elsevier
+… of-the-art surveys on security and safety, challenges and open … review is to provide a brief
+explanation of the critical security … blockchain adoption in terms of security and its usefulness in …
+Save
+Cite Cited by 2 Related articles
+G Keerthana, P Anandan - EAI Endorsed Transactions on …, 2018 - publications.eai.eu
+… in the design of a secure network. This survey paper discusses about the various attacks on
+a network together with the essential security procedures to be incorporated for securing the …
+Save
+Cite Cited by 11 Related articles All 6 versions
+PR Kanna, S Gokulraj, K Karthik, G Vijaya… - Journal of …, 2022 - pnrjournal.com
+… The computer network expertise is growing quickly, and the improvement of internet tools
+is … of the network security. The main security constraint is domain authority and network …
+Save
+Cite Cited by 1 Related articles All 3 versions
+PK Pasayat, DK Meenakshi Sundaram - 2022 - papers.ssrn.com
+… REVIEW In this paper, the review is based on supervised and unsupervised based machine
+learning algorithm implementation in network security applications are explained and list …
+Save
+Cite Cited by 1 Related articles All 2 versions
+M Alabadi, Y Celik - 2020 International Congress on Human …, 2020 - ieeexplore.ieee.org
+… Various types of cyber-security enabled … neural network (CNN) is mainly utilized because
+of its ability to process input with multi-dimensions. In this paper, a comprehensive survey …
+Save
+Cite Cited by 22 Related articles All 2 versions
+S Chockalingam, W Pieters, A Teixeira… - Secure IT Systems: 22nd …, 2017 - Springer
+… This is also exemplified by the growth of BN models development in cyber security. However…
+review of the scientific literature and identify 17 standard BN models in cyber security. We …
+Save
+Cite Cited by 65 Related articles All 11 versions
+A Sharma, RK Jha - Wireless Personal Communications, 2021 - Springer
+… various security attacks and various security issues on the … the 5G WCN in order to advance
+the security scenario for secure … Hence to solve the problem in the network regarding security …
+Save
+Cite Cited by 10 Related articles All 3 versions
+H Jie - International Journal of Informatics and Computation, 2019 - ijicom.respati.ac.id
+… to solving Networks and Information Security issues. We survey network security in LTE
+technologies, Vehicular Ad-Hoc Network, and security in Wireless Sensor Network. Internet of …
+Save
+Cite Cited by 4 Related articles All 2 versions
+AM Alwakeel, AK Alnaim, EB Fernandez - SoutheastCon 2018, 2018 - ieeexplore.ieee.org
+… may affect the system that werent possible in the legacy network systems. This section
+covers some of the main threats that affect the security of NFV. We list them according to their …
+Save
+Cite Cited by 53 Related articles All 2 versions
+B Prabhu Kavin, S Ganapathy - International Journal of Advances …, 2018 - research.vit.ac.in
+… playing major role in network security in this internet world. … effective decision over the
+network dataset for enhancing the … that are proposed for providing network security. Finally, …
+Save
+Cite Cited by 6 Related articles All 6 versions
+S Charles, P Mishra - ACM Computing Surveys (CSUR), 2021 - dl.acm.org
+… can be effectively utilized to implement security countermeasures to protect the SoC … security
+attacks and countermeasures. In this article, we provide a comprehensive survey of security …
+Save
+Cite Cited by 30 Related articles All 4 versions
+AE Ibhaze, MU Akpabio, SN John - … on Internet of Things, Data and …, 2017 - dl.acm.org
+… thieves would pose a serious security threat. The threat would … security threats, the network
+on which this data transfer is performed will have to be secured. The 6LoWPAN is the network …
+Save
+Cite Cited by 7 Related articles All 2 versions
+P Dewangan - International Journal of Science and Research (IJSR), 2020 - ijisrt.com
+ryptography is the science of information security. The word is derived from the Greek kryptos,
+meaning concealed. Cryptography includes techniques such as microdots, merging words …
+Save
+Cite Cited by 4 Related articles All 2 versions
+IA Sawaneh, I Sankoh… - 2017 14th international …, 2017 - ieeexplore.ieee.org
+… The survey concludes with the challenges and future directions towards WBANs … security
+maintainability in medical applications. The survey evaluate possible clarifications for security …
+Save
+Cite Cited by 29 Related articles All 3 versions
+B Mao, J Liu, Y Wu, N Kato - IEEE Communications Surveys & …, 2023 - ieeexplore.ieee.org
+… targets of many new security and privacy threats. In this article, we provide a … survey of
+articles on the three techniques-related security threats and countermeasures on the 6G network …
+Save
+Cite Cited by 11 Related articles All 2 versions
+O Avatefipour, H Malik - arXiv preprint arXiv:1802.01725, 2018 - arxiv.org
+… This security limitation has paved the way for adversaries to penetrate into the vehicle network
+… The objective of this research is to survey the current limitations of CAN-Bus protocol in …
+Save
+Cite Cited by 94 Related articles All 3 versions
+G Kaur - International Journal of Advanced Research in …, 2017 - search.ebscohost.com
+… Security is very important feature for exchange the … of network security techniques such as:
+Secrecy, Authentication, Non-repudiation and Integrity control. There are two popular security …
+Save
+Cite Cited by 6 Related articles
+R Dangi, A Jadhav, G Choudhary, N Dragoni… - Future Internet, 2022 - mdpi.com
+… This phenomenon is called network slicing. Security is a critical concern in network slicing
+as … This study focused on the security issues that arise during the network slice lifecycle. …
+Save
+Cite Cited by 24 Related articles All 8 versions
+MA Al-Shareeda, M Anbar, S Manickam, A Khalil… - IEEE …, 2021 - ieeexplore.ieee.org
+… is to critically review identity-based security and privacy … of VANET and the security and
+privacy requirements. Section … , “A survey on recent advances in vehicular network security, …
+Save
+Cite Cited by 35 Related articles All 3 versions
+AN Alhaj, N Dutta - Contemporary Issues in Communication, Cloud and …, 2022 - Springer
+… include the basic properties of the SDN network and its general structure, and … network and
+a review of previous research in this field. The best attempts made to find appropriate security …
+Save
+Cite Cited by 12 Related articles All 4 versions
+MS Sheikh, J Liang, W Wang - Wireless Communications and Mobile …, 2020 - hindawi.com
+… security services. In [42], Hussain et al. presented a survey of integration of 5G network
+security … ey comprehensively conducted a study in terms of existing security issues, standards, …
+Save
+Cite Cited by 96 Related articles All 8 versions
+VD Veksler, N Buchler, BE Hoffman… - Frontiers in …, 2018 - frontiersin.org
+… Computer simulations are of great importance in the field of cyber-security. Simulations
+are useful as components of network security software and in training exercises for security …
+Save
+Cite Cited by 50 Related articles All 9 versions
+C Chen, L Ye, X Yu, B Ding - Artificial Intelligence and Security: 5th …, 2019 - Springer
+… network security situation in the industry, and gives the following definition: Network security
+situational awareness refers to the analysis and visualization of various security elements in …
+Save
+Cite Cited by 5 Related articles All 2 versions
+R Namukuwa, M Chitauro… - 2021 3rd International …, 2021 - ieeexplore.ieee.org
+… security that can be implemented in such a network, systematic literature review on published
+paper was conducted to review … order to incorporate security in the network design. Based …
+Save
+Cite Cited by 2 Related articles All 2 versions
+SM Vidhani, AV Vidhate - 2022 5th international conference on …, 2022 - ieeexplore.ieee.org
+… concerns that 5G will raise and demands urgent security fixes. We also discuss the future
+of safe 5G systems and security fixes for these problems. To increase network security, DDOS …
+Save
+Cite Cited by 3 Related articles
+Y Meng, H Zhu, X Shen - Security in Smart Home Networks, 2022 - Springer
+… will review existing research works related to the security and privacy challenges in the smart
+home network. … Section 2.1 will review the side-channel privacy risks faced by the terminal …
+Save
+Cite Cited by 2 Related articles
+M Montaño-Blacio, J Briceño-Sarmiento… - … on Innovation and …, 2020 - Springer
+… attacks and security challenges. In this work we propose to conduct a systematic review of
+… internet of things and approach the security that the 5G network for IoT must provide. The …
+Save
+Cite Cited by 3 Related articles All 3 versions
+AD Wankhade, K Wagh - 2021 3rd International Conference on …, 2021 - ieeexplore.ieee.org
+… Providing security services for securing these types of network and avoiding the … to
+improve the existing security methodologies which will be helpful in IoT network security. …
+Save
+Cite Cited by 3 Related articles
+A Murzaeva, B Kepçeoğlu… - 2019 3rd International …, 2019 - ieeexplore.ieee.org
+… survey we aim to outline possible attacks in IoT network and to propose possible solutions for
+them. Security … layers trigger whole system’s security. Solutions for them are presented, too. …
+Save
+Cite Cited by 3 Related articles
+Vikas, BB Sagar, M Munjul - Journal of Discrete Mathematical …, 2021 - Taylor & Francis
+… gathering by these sensors and more security concerns are arising for WSN. … survey on
+wireless sensor networks; in the third part, we present: how ML can be used for providing security …
+Save
+Cite Cited by 9 Related articles All 2 versions
+AK Goyal, G Agarwal, AK Tripathi - … Journal of Computer Network …, 2019 - j.mecs-press.net
+… His area of interest is Wireless Communication, cryptography and network security. … His
+area of research is cryptography and Network Security. He has published more than 34 papers in …
+Save
+Cite Cited by 24 Related articles All 10 versions
+MS Akter - arXiv preprint arXiv:2306.09248, 2023 - arxiv.org
+With the ever-growing concern for internet security, the field of quantum cryptography emerges
+as a promising solution for enhancing the security of networking systems. In this paper, …
+Save
+Cite Cited by 1 Related articles
+A Pillai, A Kumar, M Ajina - IOSR Journal of Computer Engineering, 2016 - Citeseer
+… the traditional wired network because of which security issues … In Section 3, we survey the
+current security solutions for the … In this section, we survey some security schemes that help in …
+Save
+Cite Cited by 3 Related articles All 2 versions
+C Singh, L Kaur - Turkish Journal Of Computer And Mathematics …, 2021 - turcomat.org
+… The most fundamental challenge both organizations and users face while ensuring
+secure data transfer over the internet is information security. As a society the more we are …
+Save
+Cite Cited by 3 Related articles All 2 versions
+IS Al-Mejibli, NR Alharbe - Iraqi Journal for Computers and Informatics, 2020 - iasj.net
+… to enhance the security of wireless network. In [17] the authors presented a survey of WEP,
+WPA … While this paper studies these wireless network security standards in addition to WPA3. …
+Save
+Cite Cited by 9 Related articles All 9 versions
+G Chopra, RK Jha, S Jain - Journal of Network and Computer Applications, 2017 - Elsevier
+… the network from the eye of the potential attackers. In this paper, a detailed survey has been
+done on security … for 5G wireless network architecture. With this, a detailed explanation about …
+Save
+Cite Cited by 58 Related articles All 2 versions
+R Kumar, S Tripathi, R Agrawal - 2020 International conference …, 2020 - ieeexplore.ieee.org
+… With this newspaper, we provide a survey of routing protocols for WSN and also look at their
+laws and strengths. We talked about a variety of protection methods as decryption as well as …
+Save
+Cite Cited by 5 Related articles
+L Alouache, N Nguyen, M Aliouat… - International Journal of …, 2019 - Wiley Online Library
+… The authors believe that their review should … this survey paper some recent IoV challenges
+that new routing protocols should take into account. The first challenge concerns the security …
+Save
+Cite Cited by 45 Related articles All 3 versions
+A Sarihi, A Patooghy, A Khalid, M Hasanzadeh… - IEEE …, 2021 - ieeexplore.ieee.org
+… and addressed security holes of NoCs, aiming at improving the security of the … survey study
+on the security vulnerabilities and countermeasures for NoCs. This paper will review security …
+Save
+Cite Cited by 11 Related articles
+S Maurya, A Singhrova - Cyber Security: Proceedings of CSI 2015, 2018 - Springer
+… to information security as it does not only require securing end systems but also ensure the
+security of entire network system. This paper discusses the network security measures and …
+Save
+Cite Cited by 2 Related articles All 3 versions
+M Yaghoubi, K Ahmed, Y Miao - Journal of Sensor and Actuator Networks, 2022 - mdpi.com
+… important challenges of security and energy consumption. The main goal of this review article
+is to … In fact, tapping is one of the most important problems in sensor network security [103]. …
+Save
+Cite Cited by 13 Related articles All 4 versions
+A Jahangeer, SU Bazai, S Aslam, S Marjan… - IEEE …, 2023 - ieeexplore.ieee.org
+… Routing protocol for low power and lossy networks (RPL) is a network layer protocol, … of
+the network. In this work, a comprehensive review of internal attacks on the network layer is …
+Save
+Cite Cited by 3 Related articles
+VD Dabhade, AS Alvi - … Computing and Networking: Proceedings of IC-ICN …, 2021 - Springer
+… network can be compromised. Compromised network portion may vary from security … As per
+literature survey, it has been observed that symmetric schemes are preferred but they are not …
+Save
+Cite Cited by 2 Related articles All 4 versions
+C He, Y Li - … on Computational Science and Engineering (ICCSE …, 2017 - atlantis-press.com
+… network security situation with other network security data, so as to predict the network security
+… can make network security management staff can the network security situation more high…
+Save
+Cite Cited by 3 Related articles
+A Vaibhav, D Shukla, S Das, S Sahana… - IJ Wireless and …, 2017 - researchgate.net
+… This survey paper discusses various issues related to Security Challenges, Security Architecture
+actors, Security … This review paper will allow you to understand the various area and the …
+Save
+Cite Cited by 51 Related articles All 7 versions
+D Diwan, VK Narang, AK Singh - Int. J. Comput. Sci. Trends Technol, 2017 - academia.edu
+… review that generally in campus network we don't use more than one routing protocol and
+there is lack of security … Zhang, “Research about optimization of campus network security …
+Save
+Cite Cited by 10 Related articles
+S Yang, X Wei - 2017 8th IEEE International Conference on …, 2017 - ieeexplore.ieee.org
+… basis for a network security risk assessment. This paper mainly reviews the research status
+of network security vulnerability analysis methods, network security quantitative evaluation …
+Save
+Cite Cited by 2 Related articles
+I Oladeji, P Makolo, M Abdillah, J Shi, R Zamora - Electronics, 2021 - mdpi.com
+… distribution network while ensuring that the network security … any physical changes in the
+network topology. The common … the distribution network using a specific set of security indices…
+Save
+Cite Cited by 7 Related articles All 6 versions
+A Vij, V Sharma - 2016 International Conference on Computing …, 2016 - ieeexplore.ieee.org
+… normal functioning of the network. Our focus in this paper is on security issues and attacks
+… • Firstly the MANET is a wireless network, unlike a wired network where adversary requires …
+Save
+Cite Cited by 19 Related articles
+L Chen, H Lv, K Fan, H Yang, X Kuang… - … on Smart BlockChain …, 2020 - ieeexplore.ieee.org
+… network security. This paper describes a literature review of machine learning approaches
+for network security … blockchain in the field of network security. We first illustrate three types of …
+Save
+Cite Cited by 1 Related articles All 2 versions
+MA Al-Shareeda, S Manickam - IEEE Access, 2023 - ieeexplore.ieee.org
+… This review is organized into six sections as follows: Section I presents the security of … of
+publications that were subjected to the review. Section IV introduces the distribution results for …
+Save
+Cite Cited by 8 Related articles All 2 versions
+L Zhang, Y Kong, Y Guo, J Yan, Z Wang - IET Communications, 2018 - Wiley Online Library
+… (5) The flow watermarks should be combined with other network security systems. It is … other
+network security systems to make up for the deficiencies of existing network security systems …
+Save
+Cite Cited by 17 Related articles All 3 versions
+MT Kurniawan, S Yazid - … of the 3rd International Conference on …, 2019 - dl.acm.org
+… (SLR) method, and SLR result stated that research in architecture of network security is still
+… of the research review is to analyze the security architecture software defined network. In the …
+Save
+Cite Cited by 5 Related articles All 2 versions
+SM Faisal, T Zaidi - International Journal of Mechanical …, 2021 - kalaharijournals.com
+… compromise security protocols either by manipulating the vehicular system or by negotiating
+network security protocols. In the subsequent section, we have explained various security …
+Save
+Cite Cited by 2 Related articles
+Y Benslimane, K Benahmed, H Benslimane - Renewable Energy for Smart …, 2019 - Springer
+… proposed survey focus especially on 6LoWPAN network security whether for outside or
+inside communication of the network where we look in depth into proposed end-to-end security …
+Save
+Cite Cited by 8 Related articles All 2 versions
+OM Al-Hazaimeh, AA Abu-Ein, MM Al-Nawashi… - Bulletin of Electrical …, 2022 - beei.org
+Nowadays the security of multimedia data storage and transfer is becoming a major concern.
+The traditional encryption methods such as DES, AES, 3-DES, and RSA cannot be utilized …
+Save
+Cite Cited by 6 Related articles All 7 versions
+S Chaudhary, A Singh, K Chatterjee - International Journal of …, 2019 - papers.ssrn.com
+… security and privacy issues of the WBSN is an important aspect. Thus, the main contribution
+of the work is as follows: • In this survey, we have discussed the security … literature survey into …
+Save
+Cite Cited by 22 Related articles
+N Mishra, S Srivastava… - 2019 2nd international …, 2019 - ieeexplore.ieee.org
+… set of security threats and challenges is introduced by Cognitive Radio. In this review, we
+have illustrated the weaknesses of operational aspects of a cognitive radio network that can be …
+Save
+Cite Cited by 2 Related articles
+BO Aloffi - Turkish Journal of Computer and Mathematics …, 2021 - turcomat.org
+… that are not threatened by security breaches, intrusions, and any kind of attacks. This paper
+surveys recent researches related to network security intrusions and risk management. In …
+Save
+Cite Cited by 1 Related articles All 3 versions
+Y Liu, Y Morgan - Computer networks, 2018 - Elsevier
+… In this survey article, we present a comprehensive review of the researches on secure network
+coding against passive attack… This survey belongs to the category of network security. The …
+Save
+Cite Cited by 14 Related articles All 2 versions
+C Oh, J Ha, H Roh - Applied Sciences, 2021 - mdpi.com
+… security (TLS) encryption on the Internet, in network traffic analysis (NTA). To this end, in this
+survey … Security experts in SOCs and researchers in academia can obtain useful information …
+Save
+Cite Cited by 7 Related articles All 6 versions
+AG Suliaman, ZMT Alkattan - 2021 - soc.uum.edu.my
+… of the 5G network, so advanced security is needed. From this point, this paper presents a
+survey of the improvements that have been done recently on 4G/LTE security and reveals the …
+Save
+Cite Cited by 1 Related articles All 4 versions
+OS Kidege, SP Maj, O Gtl - Modern Applied Science, 2017 - pdfs.semanticscholar.org
+In advanced societies all aspects of commerce and industry are now based on networked IT
+systems. Failures of these systems have the potential to be extremely disruptive. The term …
+Save
+Cite Cited by 1 Related articles All 4 versions
+P de Moraes, AF da Conceição - arXiv preprint arXiv:2105.00384, 2021 - arxiv.org
+… protocol design and security mechanisms, while Topic 3 describes the systematic review
+methodology employed in this paper. The protocol for the systematic review is defined in Topic …
+Save
+Cite Cited by 4 Related articles All 4 versions
+R Raman, Z Gupta, SV Akram, L Thakur… - 2023 International …, 2023 - ieeexplore.ieee.org
+… article gives a thorough review of the … network connectivity were made while discussing
+security-related issues. Considering both the system architecture and its operations for network …
+Save
+Cite Cited by 1 Related articles
+KR Khan - Int. J. Adv. Res. Comput. Sci. Softw. Eng., 2018 - academia.edu
+… Security for exchange is a very important feature … of network security technologies such
+as privacy, authentication, non-rejection and honesty control. There are two popular security …
+Save
+Cite Cited by 1 Related articles All 2 versions
+AU Rehman, MS Mahmood, S Zafar, MA Raza… - Electronics, 2022 - mdpi.com
+… the different security approaches to make a network secure [3]. … Wireless sensor network
+security is the process of making … devices secure along with the network to which they are …
+Save
+Cite Cited by 1 Related articles All 4 versions
+K Roshan, A Zafar - High Performance Computing and Networking: Select …, 2022 - Springer
+… We have considered all areas related to computer network security … review, especially on
+hybrid DL approaches, as they play a vital role in computer network and information security…
+Save
+Cite Cited by 3 Related articles All 3 versions
+K Khan, W Goodridge - International Journal of Advanced …, 2019 - search.proquest.com
+… It is hoped that the reader will gain interest in network security attacks by reading this paper
+and see the role of security in their own homes and organizations. The reader should be …
+Save
+Cite Cited by 6 Related articles
+B Hazarika, S Medhi - International Journal of Computer …, 2016 - researchgate.net
+… of network security. It monitors the incoming and outgoing traffic based on some security rules.
+… It works like a barrier between a secured internal network and other outside network. In an …
+Save
+Cite Cited by 9 Related articles All 4 versions
+C Guo, D Xie, Y Han, J Guo, Z Wei - Artificial Intelligence and Security: 6th …, 2020 - Springer
+… According to the network architecture defined by software, this paper analyzes the unique
+security problems faced by the network defined by software, and classifies the security …
+Save
+Cite Cited by 1 Related articles
+T Zhang, W Aftab, L Mihaylova, C Langran-Wheeler… - Sensors, 2022 - mdpi.com
+… This paper provides a survey of the latest trends in CCTV systems and presents a vision for
+the future of such systems. The ever-evolving nature of security hazards and threats can be …
+Save
+Cite Cited by 9 Related articles All 13 versions
+W Ahmed, S Anwar, M Arshad - Int. J. Multidisc. Sci. Eng, 2016 - ijmse.org
+… In this paper, a literature review of Long term evolution and Long term evolution advanced
+network security architectures are presented. Some network security issues are also …
+Save
+Cite Cited by 6 Related articles
+G Singh - … Journal of Innovative Science, Engineering & …, 2016 - ijiset.com
+… network layer in which the attack occurs, specifically network layer wise security features and
+the network security … layers etc. and the different security measures that can be applied to …
+Save
+Cite Cited by 6 Related articles All 2 versions
+S Kar, S Sethi, MK Bhuyan - International Journal of …, 2016 - inderscienceonline.com
+… radio frequency, it faces all the traditional wireless network security threats. In addition,
+CRN introduces significant new classes of security threats and vulnerabilities due to its unique …
+Save
+Cite Cited by 21 Related articles All 3 versions
+Y He, M Zhang, X Yang, J Luo, Y Chen - IEEE Access, 2020 - ieeexplore.ieee.org
+… In this section, we survey privacy protection and network security of user on-demand
+anonymous communication on the user side, and we summarize security issues and corresponding …
+Save
+Cite Cited by 2 Related articles All 2 versions
+PK Gupta, S Mittal, P Consul, JK Jindal - Advances and Applications in …, 2020 - mililink.com
+… This paper gives a short review of different vulnerabilities related to every single layer of the
+OSI … of the aggregate impact of utilizing security systems kept up at all layers of the system. …
+Save
+Cite Cited by 3 Related articles
+D Shukla, A Vaibhav, S Das… - … Conference on Computing …, 2016 - ieeexplore.ieee.org
+Vehicular Adhoc Network is basically the solution of several problems associated while
+vehicles are plying on the road. This paper mainly focuses and encourages to think over the …
+Save
+Cite Cited by 13 Related articles
+SL Nita, MI Mihailescu - 2018 10th International Conference on …, 2018 - ieeexplore.ieee.org
+… inherits all security issues of its components. A relatively new approach in cloud security is
+artificial … In this paper we will present some security models based on ANNs applied in cloud …
+Save
+Cite Cited by 8 Related articles
+SW Kareem, YT Hussein - Qalaai Zanist Journal, 2017 - journal.lfu.edu.krd
+… routing protocol plus security. This paper endeavors to present a full survey about secure
+routing. At the beginning investigates the reason which makes ad hoc network is susceptible to …
+Save
+Cite Cited by 7 Related articles All 5 versions
+Cite Related articles All 2 versions
+[CITATION] Review of security enhancement techniques for Wireless Sensor Network
+C Singh, R Kaur, M Kaur - International Journal of Electronics Engineering …, 2017
+Save
+Cite Cited by 4 Related articles All 2 versions
+A Temurnikar, P Verma… - International Journal of …, 2019 - researchgate.net
+… of the network. In this paper we presents the review in the vehicular ad-hoc network for quality
+… in the recent trends in vehicular ad-hoc network and discuss the above to resolve in future. …
+Save
+Cite Cited by 1 Related articles
+IM Alsmadi, M Zarour - Information Fusion for Cyber-Security Analytics, 2017 - Springer
+… to many network-based applications such as security controls. SDN or “programmable
+network” as a more generic term can change the way we develop and use security controls. Many …
+Save
+Cite Cited by 1 Related articles
+N El Moussaid, A Toumanari, M El Azhari - … (AIT2S-17) Held on April 14/15 …, 2018 - Springer
+… control plane from the data plane, which leads the management of the network routing from
+… , the security issues still in the surface. This paper presents a survey on the security issues in …
+Save
+Cite Cited by 2 Related articles
+F Fazlic, SA Hashemi, A Aletic… - … Europe Journal of …, 2019 - scjournal.ius.edu.ba
+… With the global use of wireless sensor network technology in … various vulnerabilities and
+security threads in different … friendly nodes, compromises on security measures with the goal of …
+Save
+Cite Cited by 1 Related articles All 3 versions
+AK Kapil, L Kumar - International Journal of Research in Engineering …, 2019 - academia.edu
+… any advanced home security systems [26]. A home security survey or investigative study is
+a serious on sight assessment of a property to determine what the present security status is …
+Save
+Cite Cited by 1 Related articles
+S Jadhav, P Naik, K Kahade - International Journal for Innovative …, 2016 - academia.edu
+… network we have to send request to that node in the network. Then that node in the network
+… The security schemes included in our protocol allow a secure communication between end …
+Save
+Cite Cited by 2 Related articles
+N Gupta, S Tanwar, S Badotra - Computational Intelligence for …, 2023 - Springer
+… network security. Common Internet abnormalities include worms, denial-of-service assaults,
+and Trojans. Network security, … Security [7, 8] is at the Center of all these issues. Since the …
+Save
+Cite Cited by 1 Related articles All 2 versions
+S Sangui, SK Ghosh - … and Analytics for Cloud Security, 2021 - Wiley Online Library
+… Despite having numerous benefits, security has always been a … cloud security an important
+necessity. In this paper, we have discussed security challenges and reviewed cloud security …
+Save
+Cite Cited by 3 Related articles All 5 versions
+OI Al-Sanjary, AA Ahmed, MN Mohammed… - … Conference of Reliable …, 2021 - Springer
+… survey involving 20,000 individuals throughout 24 nations, 69% had experienced cyber-attacks
+in their lifetimes. The survey also … of the cyber security field through a thorough review of …
+Save
+Cite Cited by 3 Related articles
+UD Ani, JMK Watson, M Carr, A Cook… - The Journal of …, 2022 - journals.sagepub.com
+… It is interesting to note that none of the open source simulators covered in this review indicates
+a capability to properly address the broad range of ancillary security simulation objectives…
+Save
+Cite Cited by 4 Related articles All 6 versions
+E Rawat, A Singh, A Mahar, A Agarwal - 2022 - easychair.org
+… well-built network and cybersecurity. In this review paper, we validated some of the researches
+that was formerly organized in the field of cryptography, network security and the purpose …
+Save
+Cite Cited by 1 Related articles All 2 versions
+MZA Aziz, K Okamura - Journal of Advanced Research in …, 2016 - akademiabaru.com
+… review paper will drive a research topics on network security … this paper focuses more on
+network security based on technical … trending in the literature review, SDN is considered for the …
+Save
+Cite Cited by 1 Related articles All 3 versions
+J Su, A Kankani, G Zajko, A Elchouemi… - … in Intelligent Systems …, 2020 - ieeexplore.ieee.org
+… These components will provide some validation in the use of neural network-… security.
+We conclude that using neural network-based encryption techniques can increase security in …
+Save
+Cite Cited by 6 Related articles
+MR Vignesh, S Sivakumar - Int. J. Trend Sci. Res. Dev, 2021 - researchgate.net
+… We have analysed the security for the different attack scenarios. This survey is to summarize
+the major difficulties which we face while designing a network in WBANs which is an …
+Save
+Cite Cited by 5 Related articles
+Y Huo, Y Sun, W Fan, X Cheng, D Li, Y Liu - 5G for Future Wireless …, 2018 - Springer
+… of ubiquitous network, this paper analyzes the security threats … many security problems of
+big data, in the ubiquitous network… Therefore, it is necessary for the ubiquitous network security …
+Save
+Cite Cited by 1 Related articles All 3 versions
+V Agarwal, P Mishra, S Kumar, ES Pilli - Optical and Wireless …, 2022 - Springer
+… no survey available on attack and security tools at the network … for the network layer in IoT
+on their attacks as well as security … Acunetix [26] is the network security scanner written in C++ …
+Save
+Cite Cited by 1 Related articles All 4 versions
+C Nagarathna, BM Kumar, N Bhavana… - … Journal of Human …, 2022 - milestoneresearch.in
+… network security is IDS. Machine Learning algorithms were adapted as a result of this for
+Network … In this paper, we presented the pros and drawbacks, a survey of IDS methodologies …
+Save
+Cite Cited by 2 Related articles All 2 versions
+Y Tian, W Zhou, W Liu - Security, Privacy, and Anonymity in Computation …, 2017 - Springer
+… 3, we analyze the security of DNS resolution procedures and describe the possibility of …
+Critical security review and study of DDoS attacks on LTE mobile network. In: 2014 IEEE Asia …
+Save
+Cite Cited by 2 Related articles
+V Kayalvizhy, A Banumathi - 2021 5th International Conference …, 2021 - ieeexplore.ieee.org
+… network, but the effort projected from [11]. In contrast to predefined survey papers, this
+survey gives current actions of quickly progress investigation on SG meter network security and …
+Save
+Cite Cited by 2 Related articles
+M Arif, S Ahmad - … Communication, Control and Devices: Proceedings of …, 2018 - Springer
+… In this paper, we firstly focused on security features, … then we threw light on different types
+of security techniques. … In this review paper, we threw light on the requirements of security, its …
+Save
+Cite Cited by 6 Related articles
+S Singh, PR Verma - 2018 - academia.edu
+… rather than processing of data, so Data security is needed to prevent hacking of data and to
+provide authenticated data transfer. Network Security can be achieved by Firewall which acts …
+Save
+Cite Cited by 1 Related articles All 2 versions
+A Tahirou, K Konate - The Proceedings of the International Conference on …, 2022 - Springer
+… security holes. Most of its vulnerabilities are related to the fact that the architecture is based
+on software but also the centralized nature of the controller. Indeed, all the security … security …
+Save
+Cite Cited by 1 Related articles
+AN Mazher, J Waleed, AT MaoLood - Journal of Al-Qadisiyah for computer …, 2020 - iasj.net
+… and neural network to form an optimized list of rules for providing network security. This …
+In this paper, a review of several security threats that faces the NFV has been presented. …
+Save
+Cite Cited by 3 Related articles All 4 versions
+R Dangi, A Jadhav, G Choudhary, N Dragoni… - 2022 - researchgate.net
+… This phenomenon is called network slicing. Security is a critical concern in network slicing
+as … This study focused on the security issues that arise during the network slice lifecycle. …
+Save
+Cite Cited by 1 Related articles All 2 versions
+L Kibona, H Ganame - 2018 - philpapers.org
+… network has been a research in the past two decades without coming up with prior solution
+to which security … The aim of this study was to review some literatures on wireless security in …
+Save
+Cite Cited by 1 Related articles
+Cite Related articles All 2 versions
+[CITATION] Security Issues in Heterogeneous Network: A review
+PG Chilveri, MS Nagmode - International Journal of Applied Engineering Research, 2018
+Save
+Cite Cited by 2 Related articles All 2 versions
+A Kulkarni, A Patange - International Journal of Embedded Systems …, 2016 - academia.edu
+… using a fixed network and controlled by microcontroller. Embedded sensor network and
+device … It gives a new level of home security and it can also manage the energy harvesting …
+Save
+Cite Cited by 6 Related articles All 2 versions
+R Shaaban, S Faruque - Physical communication, 2020 - Elsevier
+… VLC security since few papers investigated VLC-based vehicular security physical layer
+security… In Section 2, we review the challenges and motivation of the indoor VLC model then the …
+Save
+Cite Cited by 7 Related articles
+EB Ajulo, RO Akinyede, OS Adewale - Journal of Information, 2018 - researchgate.net
+… have investigated security and privacy issues in VANET. We carried out a selective review
+of … , derived a new perspective, and categorized the security attacks on this type of network. …
+Save
+Cite Cited by 6 Related articles All 5 versions
+MR Jose, JAP Singh - … Journal of Electronic Security and …, 2021 - inderscienceonline.com
+… network optimisation can be accomplished through the maximal use of resources available
+and deploying proper security … delivery ratio) along with the security challenges they face. In …
+Save
+Cite Cited by 2 Related articles All 3 versions
+R Paul, B Das - Conf. Paper - adtu.in
+… This paper presents a survey on different energy efficient routing protocols along with
+security measures to improve security of nodes in wireless sensor networks and aims to design …
+Save
+Cite Cited by 3 Related articles
+A Mehta - 2017 - osf.io
+… Most of the routing protocols in MANETs assume that all the nodes in a network will cooperate
+… We present a survey of the main types of routing protocols and some security threats and …
+Save
+Cite Cited by 1 Related articles All 3 versions
+D Chen, D He, F Ahmad - VFAST Transactions on Software Engineering, 2016 - vfast.org
+… risk of security that the traditional network environment security … network security solution.
+According to our investigation, we are the first ones to present the state of art review on security …
+Save
+Cite Cited by 2 Related articles All 6 versions
+D Patel - researchgate.net
+… a security related issues with WLAN and will introduce a security framework for Robust Security
+… paper is to introduce RSN security framework, which greatly improves security, can make …
+Save
+Cite Cited by 1 Related articles
+MZ Alam, F Reegu, AA Dar… - … on Sustainable Computing …, 2022 - ieeexplore.ieee.org
+… Network layer security issues linked with IoT are examined in detail in this article. It also …
+of the network architecture [6]. These are some of the network layer security flaws we've found. …
+Save
+Cite Cited by 1 Related articles All 2 versions
+M Selladevi, S Duraisamy - International Journal of Computer …, 2018 - researchgate.net
+… security attacks. In this paper we have proposed a solution to detect and prevent multiple
+attacks in a network … This article briefly discusses about the concept of Mobile Ad Hoc Network (…
+Save
+Cite Cited by 2 Related articles
+
+[CITATION] A survey to improve the network security with less mobility and key management in MANET
+R Aggarwal - International Journal of Scientific Research in …, 2018
+Save
+Cite Cited by 5 Related articles
+Cite Related articles
+[CITATION] A review of cryptographic algorithms in network security
+B Nithya, P Sripriya - International journal of engineering and technology, 2016
+Save
+Cite Cited by 11 Related articles
+Cite Related articles
+[CITATION] Review: network security mechanisms and cryptography
+MT Khan - IJCSMC, 2017
+Save
+Cite Cited by 5 Related articles
+Cite Related articles
+[CITATION] Survey on network security based on blockchain
+Y Chen, DJ Xu, L Xiao - Telecommun. Sci, 2018
+Save
+Cite Cited by 8 Related articles
+S Patni, M Sambudas, S Sharma - International Journal of Computer … - researchgate.net
+… network and its associated technologies have opened the door to an increasing number of
+security … through an insecure network via VPN, client-side security should not be overlooked. …
+Save
+Cite Cited by 1 Related articles
+Cite Related articles
+[CITATION] A survey on security architecture and key management systems in a wireless sensor network
+S Kumar, CR Krishna… - … and Network …, 2017 - … Science and Network Security
+Save
+Cite Cited by 5 Related articles
+Cite Related articles
+[CITATION] Survey of research on network security situation awareness
+LY Shi, J Liu, YH Liu, PF Duan - Comput. Eng. Appl, 2019
+Save
+Cite Cited by 6 Related articles
+Cite Cited by 6 Related articles
+[CITATION] Technical survey on cryptography algorithms for network security
+R Sonia, K Harpreet - International Journal of Advanced Research in …, 2016
+Save
+Cite Cited by 6 Related articles
+Cite Related articles
+[CITATION] Analysis on the legal basis of computer network security review
+Z Xiao - J. Hubei Open Vocat. Coll., 2019
+Save
+Cite Cited by 2 Related articles
+Cite Related articles All 4 versions
+[CITATION] Survey of attack graph based network security metric
+H HU, YL LIU, YC ZHANG - Chinese Journal of Network and Information Security, 2018
+Save
+Cite Cited by 5 Related articles
+Cite Related articles All 2 versions
+[CITATION] A survey on network security using genetic algorithm
+S Mondal, TK Mollah, A Samanta, S Paul - Int. J. Innov. Res. Sci. Eng. Technol, 2016
+Save
+Cite Cited by 5 Related articles
+Cite
+[CITATION] A review of network security risk assessment analysis methods [J]
+B Zhang, JD Ren, W Boehmer - Journal of Yanshan University, 2020
+Save
+Cite Cited by 4 Related articles
+Cite Cited by 2 Related articles
+[CITATION] Key Findings from our Survey on Identity Theft, Family Safety and Home Network Security
+G Davis - … -identity-theft-family-safety-and-home-network-security, 2018
+Save
+Cite Cited by 3 Related articles
+
+[CITATION] Review on network security and cryptography
+R Berry, K Berry, A Kumar - International Journal of Innovative Research in …, 2016
+Save
+Cite Cited by 5 Related articles
+Cite Cited by 4 Related articles
+[CITATION] A Review Paper on Cryptography and Network Security
+K Sujatha, D Ramya - International Journal of Pure and Applied Mathematics, 2018
+Save
+Cite Cited by 5 Related articles
+Cite Related articles
+[CITATION] Survey on Network security
+K Aishwarya, S Pratiksha, P Hule, M Sayli - International Journal of Current Trends in …, 2018
+Save
+Cite Cited by 5 Related articles
+Cite Related articles All 5 versions
+[CITATION] A survey on network security-related data collection technologies, special section on internet of things big datatrust management
+L Huaqing, Y Zheng, Y Chen, Z Lifang - IEEE Access, 2018
+Save
+Cite Cited by 3 Related articles
+Cite Related articles
+[CITATION] Network Security Infrastructure and Best Practices: A SANS Survey
+B Filkins - SANS Institute, Washington, 2017
+Save
+Cite Cited by 3 Related articles
+Cite Related articles All 3 versions
+[CITATION] A review on network security protocols
+PD Hatwar
+Save
+Cite Cited by 1 Related articles
+
+[CITATION] A SURVEY ON XSS ATTACKS AND ITS COUNTER MEASURES IN NETWORK SECURITY
+MV Selvarani - Journal of Analysis and Computation, 2020
+Save
+Cite Cited by 1 Related articles
+Cite Cited by 2 Related articles
+[CITATION] A literature survey on the network security and intrusion detection system using data mining techniques
+R Dharmarajan, V Thiagarasu - Asian J Comput Sci Technol, 2019
+Save
+Cite Cited by 3 Related articles
+Cite Related articles All 2 versions
+[CITATION] A Review of Network Security based on a Case Study of Medical Companies in Libya
+L Alhimale, AS Dabaa, D Chuckravanen - Imperial journal of interdisciplinary …, 2017
+Save
+Cite Cited by 1 Related articles
+Cite Cited by 3 Related articles
+[CITATION] The challenges in SDN/ML based network security: A survey. arXiv
+TN Nguyen - arXiv preprint arXiv:1804.03539, 2018
+Save
+Cite Cited by 2 Related articles
+Cite Cited by 2 Related articles
+[CITATION] Formal methods and network security protocols: A Survey
+S Ahmad - Science International, 2017
+Save
+Cite Cited by 2 Related articles
+
+[CITATION] Peer-to-peer network security issues and analysis: Review
+ARA Aljaedi - Int. J. Comput. Sci. Netw. Secur, 2020
+Save
+Cite Cited by 2 Related articles
+Cite Cited by 2 Related articles
+[CITATION] Review on Network Security and Cryptography
+S Kaur, R Kaur, CK Raina - International Journal of Scientific Research in …, 2017
+Save
+Cite Cited by 2 Related articles
+Cite Cited by 3 Related articles
+[CITATION] Review of software and network security research [J]
+L Jian, S Purui, Y Min - Journal of software, 2018
+Save
+Cite Cited by 3 Related articles
+Cite Cited by 2 Related articles
+[CITATION] Review on Cryptography in Network security
+M Sharma - International of Engineering Research and Technology, 2018
+Save
+Cite Cited by 2 Related articles
+Cite Cited by 9 Related articles
+[CITATION] Review of attacks on wireless sensor network and their classification and security
+MRI Mulla, R Patil - Imperial J. Interdisc. Res, 2016
+Save
+Cite Cited by 5 Related articles
+Cite Related articles
+[CITATION] A survey on internet of things: privacy with security of sensors and wearable network ip/protocols”
+S Chowdhury, P Mayilvahanan - International Journal of Engineering & Technology, 2018
+Save
+Cite Cited by 8 Related articles
+Cite Related articles
+[CITATION] Review on Network Security Aspects (Introduction to Vulnerabilities, Threats, and Attacks)
+TJ Jincy
+Save
+Cite Cited by 1 Related articles
+Cite Related articles
+[CITATION] … capabilities for computer network operations and cyber espionage, prepared for the US–China Economic and Security Review Commission by Northrop …
+B Krekel, P Adams, G Bakos - 2019
+Save
+Cite Cited by 4 Related articles
+Cite Related articles
+[CITATION] A survey on security issues and solutions in virtual private network
+R Shyamala, D Prabakaran - International Journal of Pure and Applied Mathematics, 2018
+Save
+Cite Cited by 15 Related articles
+Cite Related articles
+[CITATION] Cyber security review of network-connected medical devices. BSI Federal Office for Information Security
+D Truxius, E Müller, N Krupp, J Suleder, O Matula… - 2020
+Save
+Cite Cited by 2 Related articles
+Cite Related articles
+[CITATION] S., and Jha, VK (2013). Security, privacy and accountability in wireless network: a review
+CA Azad - International Journal of Engineering Research & …
+Save
+Cite Cited by 3 Related articles
+Cite Cited by 4 Related articles
+[CITATION] Advancing the homeland security information sharing environment: A review of the national network of fusion centers
+House Homeland Security Committee - 2017 - Washington, DC: Homeland Security …
+Save
+Cite Cited by 6 Related articles
+Cite Related articles
+[CITATION] Survey on network system security metrics
+X WU CS - Journal on Communications, 2019
+Save
+Cite Cited by 7 Related articles
+
+[CITATION] A survey on wireless sensor network (wsn) security using AI methods
+H Kaur, S Sahore - Int. J. Latest Trends Eng. Technol, 2016
+Save
+Cite Cited by 6 Related articles
+Cite Cited by 3 Related articles
+[CITATION] Analysis of Security Attacks and Security Protocols of Wireless Sensor Network: Review
+A Tiwari, R Varma, MS Rauthan, V Barthwal - International Journal of Scientific & …, 2020
+Save
+Cite Cited by 4 Related articles
+Cite Cited by 4 Related articles
+[CITATION] Survey and Analysis of Security Issues in Vehicular Adhoc Network
+P Yadav, D Chaurse - … Journal of Electronics and Communication Engineering …, 2016
+Save
+Cite Cited by 4 Related articles
+Cite Cited by 2 Related articles
+[CITATION] A survey on security in wireless sensor network
+A Hashemi, N Din - Southeast Europe Journal of Soft Computing, 2019
+Save
+Cite Cited by 4 Related articles
+Cite Cited by 4 Related articles
+[CITATION] A Review on Security Attacks in Vehicular Ad hoc Network
+R Priya, N Sivakumar, M Thirumaran - International Journal on Future Revolution in …, 2017
+Save
+Cite Cited by 2 Related articles
+
+[CITATION] A systematic review on security issues in vehicular ad hoc network. Secur Priv 1: e39
+S Tanwar, J Vora, S Tyagi, N Kumar, MS Obaidat - 2018
+Save
+Cite Cited by 2 Related articles
+Cite Cited by 2 Related articles
+[CITATION] A novel review on security and routing protocols in MANET. Communications and Network, 8 (04)
+MK Nazir, RU Rehman, A Nazir - 2016
+Save
+Cite Cited by 2 Related articles
+Cite Cited by 2 Related articles
+[CITATION] A Survey of Potential Security Issues in Existing Wireless Sensor Network Protocols. IEEE Internet Things J. 2017, 4, 1910–1923
+I Tomic, JA McCann - 2017
+Save
+Cite Cited by 2 Related articles
+Cite Cited by 2 Related articles
+[CITATION] Security and Privacy in Vehicular Ad Hoc Network and Vehicle Cloud Computing: A Survey. Wireless Communications and Mobile Computing
+MS Sheikh, J Liang, W Wang - 2020
+Save
+Cite Cited by 2 Related articles
+Cite Cited by 2
+[CITATION] Recent survey on security in wireless sensor network
+M Muneebahmdhyiddeen, R Mohan, B Anupama… - Wireless Communication, 2016
+Save
+Cite Cited by 2 Related articles
+
+[CITATION] Security in wireless sensor network (WSN): a detailed survey
+A Sirohi, AK Agarwal - Int J Adv Sci Technol, 2020
+Save
+Cite Cited by 2 Related articles
+Cite Related articles
+[CITATION] A survey of potential security issues in existing wireless sensor network protocols. IEEE Internet Things J.(2017)
+T Ivana, JA McCann - 2017
+Save
+Cite Cited by 1 Related articles
+Cite Related articles
+[CITATION] 网络安全事件关联分析技术与工具研究 (Survey on Network Security Event Correlation Analysis Methods and Tools).
+A Ju, Y Guo, T Zhu, T Wang - 计算机科学, 2017
+Save
+Cite Cited by 4 Related articles
